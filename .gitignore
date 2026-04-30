@@ -1,3 +1,4 @@
 .env
+env/
 outputs/
-__pycache__/S
+__pycache__/
